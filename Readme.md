@@ -84,28 +84,9 @@ The agent dynamically decides:
 
 # 🏗️ System Architecture
 
-User Query
-    │
-    ▼
-Streamlit Frontend
-    │
-    ▼
-FastAPI Backend
-    │
-    ▼
-LangGraph ReAct Agent
-    │
- ┌──┴─────────┐
- │            │
- ▼            ▼
-LLM      Tavily Search
- │            │
- └─────┬──────┘
-       ▼
-Generated Response
-       ▼
-Frontend Display
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AritraBanerjee-09/AI-Agent-Chatbot/main/assets/architecture.png" width="900">
+</p>
 ---
 
 # ⚙️ Technical Architecture
