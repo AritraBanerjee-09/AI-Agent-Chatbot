@@ -85,7 +85,7 @@ The agent dynamically decides:
 # 🏗️ System Architecture
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AritraBanerjee-09/AI-Agent-Chatbot/main/assets/architecture.png" width="900">
+  <img src="Screenshot 2026-06-22 201237.png" width="900">
 </p>
 ---
 
